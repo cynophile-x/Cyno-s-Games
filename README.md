@@ -11,3 +11,4 @@ Run in a codespace or download the files and use in a browser (i'd recommend dow
 How to run:
 1. Run "npm install -g http-server" and wait until npm is installed
 2. Run "http-server"
+3. Click "Make Public" on the VS notification
