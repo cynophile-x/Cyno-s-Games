@@ -1,12 +1,13 @@
 Cyn0
+School site
 
-It’s a game site
+Credit: Me and Nebuli Labs
 
-Most credit goes to:
-Me & @.Cynophiles for making the site
-Minion Memes Inc. for the games
-
-Here is the link to all the games:
+Here is the link to all the "math games":
 https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/edit?tab=t.0
 
-If you want to fork, do so or download all the html files, but when you upload them to github/other sites make sure you edit the index.html with your site link and not mine
+Run in a codespace or download the files and use in a browser (i'd recommend downloading error.html. index.html, and a couple of games in the case github gets filtered)
+
+How to run:
+1. Run "npm i" and wait until npm is installed
+2. Run "http-server"
